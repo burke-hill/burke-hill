@@ -1,2 +1,2 @@
 
-![Alt Text](ape-escape-ape.gif)
+![Alt Text]
